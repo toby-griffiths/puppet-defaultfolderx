@@ -1,5 +1,5 @@
 # This is a placeholder class.
-class defaultfolder {
+class defaultfolderx {
   package { 'DefaultFolderX':
     ensure   => installed,
     provider => 'appdmg',
